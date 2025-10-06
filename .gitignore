@@ -1,0 +1,33 @@
+# Compiled/generated documents
+*.pdf
+*.docx
+*.doc
+
+# Sensitive information
+.env
+**/secrets/
+**/private/
+credentials.*
+salary_history.*
+conversation_logs/
+
+# Personal information backups
+*.backup
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
