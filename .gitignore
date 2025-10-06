@@ -9,7 +9,8 @@
 **/private/
 credentials.*
 salary_history.*
-conversation_logs/
+docs/conversation_logs/*
+!docs/conversation_logs/0_conversation_summary.md
 
 # Personal information backups
 *.backup
