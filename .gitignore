@@ -9,6 +9,7 @@
 **/private/
 credentials.*
 salary_history.*
+chatlogs.md
 docs/conversation_logs/*
 !docs/conversation_logs/0_conversation_summary.md
 
@@ -32,3 +33,6 @@ desktop.ini
 # Temporary files
 *.tmp
 *.temp
+
+# Git files
+.gitignore
