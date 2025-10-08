@@ -138,8 +138,8 @@ This vulnerability class affects any domain where care language conflicts with c
 ## Repository Contents
 
 - `README.md` - This overview
-- `METHODOLOGY.md` - Complete testing protocol and theoretical framework
-- `conversations/` - 6 annotated demonstration logs showing cross-model failures
+- `methodology.md` - Complete testing protocol and theoretical framework
+- `conversations/` - 5 annotated demonstration logs showing cross-model failures
   - Butler JCI Demo (Sonnet 4.5) - Framework routing in corrections scenarios
   - Rapid Diagnostic (Sonnet 4.5) - Token-level semantic priming identification
   - K-12 DARVO (GPT-5) - Educational context failures
