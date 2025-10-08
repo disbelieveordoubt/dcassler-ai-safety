@@ -1,0 +1,34 @@
+# Compiled/generated documents
+*.pdf
+*.docx
+*.doc
+
+# Sensitive information
+.env
+**/secrets/
+**/private/
+credentials.*
+salary_history.*
+chatlogs.md
+# Private branch: Removes ignore rules above to track conversation files
+
+# Personal information backups
+*.backup
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
