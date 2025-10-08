@@ -9,8 +9,8 @@
 **/private/
 credentials.*
 salary_history.*
-docs/conversation_logs/*
-!docs/conversation_logs/0_conversation_summary.md
+chatlogs.md
+# Private branch: Track all conversation files
 
 # Personal information backups
 *.backup
