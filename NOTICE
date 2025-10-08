@@ -1,46 +1,4 @@
-AI Safety Research and Testing Methodologies
-Copyright 2025 Daniel Cassler
+dcassler-ai-safety
+Copyright 2025 Daniel G. Cassler
 
-This product includes software and methodologies developed by Daniel Cassler.
-
-ATTRIBUTION REQUIREMENTS:
-=========================
-
-Any use, distribution, or derivative work based on this AI Safety research must include:
-
-1. ORIGINAL AUTHOR CREDIT: "Based on AI Safety research by Daniel Cassler"
-2. COPYRIGHT NOTICE: "Original work Copyright 2025 Daniel Cassler"
-3. REPOSITORY REFERENCE: Link to https://github.com/disbelieveordoubt/dcassler-ai-safety
-
-REQUIRED ATTRIBUTION IN DERIVATIVE WORKS:
-==========================================
-
-If you use these methodologies, testing frameworks, or research findings in:
-- Academic papers or publications
-- Commercial AI safety products
-- Open source projects
-- Internal corporate tools
-- Research reports or whitepapers
-
-You MUST include attribution to Daniel Cassler as the original author.
-
-METHODOLOGY CITATION FORMAT:
-============================
-
-Academic/Research Citation:
-Cassler, D. (2025). AI Safety Testing Methodologies. GitHub Repository. 
-https://github.com/disbelieveordoubt/dcassler-ai-safety
-
-Software Attribution:
-"AI Safety methodologies based on research by Daniel Cassler 
-(https://github.com/disbelieveordoubt/dcassler-ai-safety)"
-
-CONTACT INFORMATION:
-===================
-
-For questions about attribution, licensing, or collaboration:
-GitHub: @disbelieveordoubt
-Repository: https://github.com/disbelieveordoubt/dcassler-ai-safety
-
-This NOTICE file is part of the distribution and must be included in all 
-copies and derivative works as required by the Apache License 2.0.
+Licensed under the Apache License, Version 2.0
