@@ -7,6 +7,7 @@
 .env
 **/secrets/
 **/private/
+**/docs/
 credentials.*
 salary_history.*
 chatlogs.md
