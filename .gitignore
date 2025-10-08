@@ -10,7 +10,8 @@
 credentials.*
 salary_history.*
 chatlogs.md
-# Private branch: Track all conversation files
+conversation_logs/
+# Private branch: Removes ignore rules above to track conversation files
 
 # Personal information backups
 *.backup
