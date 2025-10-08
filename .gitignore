@@ -1,41 +1,16 @@
-# Compiled/generated documents
-*.pdf
-*.docx
-*.doc
+# Ignore everything by default
+*
 
-# Sensitive information
-.env
-**/secrets/
-**/private/
-**/docs/
-conversations/
-credentials.*
-salary_history.*
-chatlogs.md
-conversations/*.md
-!conversations/EVIDENCE_PORTFOLIO.md
+# Whitelist the .gitignore file itself
+!.gitignore
 
-# Personal information backups
-*.backup
-*.bak
-*~
+# Whitelist specific files
+!LICENSE
+!NOTICE
+!README.md
+!methodology.md
 
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editor files
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*.temp
-trash/
-
-# Git files
-.claude
+# Whitelist specific directories and files
+!conversations/
+conversations/*
+!conversations/evidence_portfolio.md
