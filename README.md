@@ -11,7 +11,6 @@ This repository documents a **systematic architectural vulnerability** where car
 ## Navigation
 - **[Methodology](methodology.md)** - Complete testing protocol and theoretical framework
 - **[Evidence Portfolio](conversations/evidence_portfolio.md)** - Clean summary of research findings
-- **[Repository Structure](.gitignore)** - Branch organization and privacy protection
 
 ## For Hiring Managers: Quick Demo
 
