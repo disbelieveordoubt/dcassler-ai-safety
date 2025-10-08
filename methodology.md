@@ -2,6 +2,10 @@
 
 **By Daniel G. Cassler | 2025**
 
+## Navigation
+- **[Main Overview](README.md)** - Research summary and vulnerability overview
+- **[Evidence Portfolio](conversations/evidence_portfolio.md)** - Clean summary of research findings
+
 ## Overview
 
 This methodology systematically detects semantic routing vulnerabilities where care-associated vocabulary triggers deterministic framework failures before reasoning-layer analysis occurs. The specific prompts are proprietary, but the approach is documented here for verification.

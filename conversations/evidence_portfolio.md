@@ -2,6 +2,10 @@
 
 **By Daniel G. Cassler | 2025**
 
+## Navigation
+- **[Main Overview](README.md)** - Research summary and vulnerability overview
+- **[Methodology](methodology.md)** - Complete testing protocol and theoretical framework
+
 ## Overview
 
 This repository documents a **systematic architectural vulnerability** where care-associated vocabulary triggers deterministic framework failures in AI systems processing institutional protection scenarios. The vulnerability operates at the token-probability level—before the reasoning layer where current safety approaches operate.

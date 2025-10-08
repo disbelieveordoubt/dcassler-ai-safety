@@ -8,6 +8,11 @@ This repository documents a **systematic architectural vulnerability** where car
 
 **Core Finding:** AI systems consistently prioritize adult wellbeing over child safety when care-associated language is present, creating systematic blind spots in scenarios matching real-world abuse patterns (female staff/male youth victims, 95% of PREA cases per BJS data).
 
+## Navigation
+- **[Methodology](methodology.md)** - Complete testing protocol and theoretical framework
+- **[Evidence Portfolio](conversations/evidence_portfolio.md)** - Clean summary of research findings
+- **[Repository Structure](.gitignore)** - Branch organization and privacy protection
+
 ## For Hiring Managers: Quick Demo
 
 **Want to see this in action?** I can demonstrate this vulnerability in a 15-minute live session with any frontier model. The failure is deterministic and reproducible.
