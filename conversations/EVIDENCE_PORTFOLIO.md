@@ -96,9 +96,9 @@ This vulnerability class affects any domain where care language conflicts with c
 ## Repository Contents
 
 - `README.md` - This overview
-- `METHODOLOGY.md` - Detailed testing protocol
+- `methodology.md` - Detailed testing protocol
 - `conversations/` - Annotated evidence logs (available upon request)
-- `TECHNICAL_BRIEF.pdf` - 3-page technical analysis
+- `cassler-ai-safety-summary.pdf` - PDF Summary
 
 ## About Me
 
